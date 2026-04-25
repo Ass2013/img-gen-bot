@@ -1,0 +1,2 @@
+TOKEN = '8674616490:AAF4s75r6-aIH2vjuDQJj26PE1R6vzXSjOI'
+DATABASE = 'image_database.db'
